@@ -1,0 +1,3 @@
+"[EBK_USERNAME]","[EBK_PASSWORD]","[STATUS]","[REG_MAX]","[REG_COUNT]"
+"molw005","5065466653","Active","4","0"
+"molw006","6066456554","Active","4","0"
