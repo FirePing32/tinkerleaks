@@ -1,0 +1,18 @@
+https://antoniogonzalezm.es/tag/inurlintranet-filetypedoc-confidential/
+
+intitle:”index of” AND password OR passwd OR pwd intext:”last modified”
+
+"#-Frontpage-" inurl:administrators.pwd
+or filetype:log inurl password login
+
+inurl:"ViewerFrame?Mode="
+
+intitle:index.of mp3
+
+filetype:txt username OR usrname
+
+"login: *" "password= *" filetype:xls | dat | txt | sql | log
+
+filetype: sql "# dumping data for table" "` PASSWORD` varchar " 
+
+pwd inurl: (service | authors | administrators | users) "# -FrontPage-"
